@@ -1,0 +1,10 @@
+{
+  "name": "dm-setter",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "@vercel/functions": "^3.9.11"
+  }
+}

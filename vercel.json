@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/zernio.js": { "maxDuration": 60, "includeFiles": "setter.md" }
+  }
+}
